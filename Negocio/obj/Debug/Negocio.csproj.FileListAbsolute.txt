@@ -1,0 +1,5 @@
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\Negocio\bin\Debug\Negocio.exe.config
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\Negocio\bin\Debug\Negocio.exe
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\Negocio\bin\Debug\Negocio.pdb
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\Negocio\obj\Debug\Negocio.exe
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\Negocio\obj\Debug\Negocio.pdb

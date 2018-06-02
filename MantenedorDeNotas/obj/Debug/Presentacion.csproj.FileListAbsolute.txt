@@ -1,0 +1,20 @@
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\MantenedorDeNotas\bin\Debug\MantenedorDeNotas.exe.config
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\MantenedorDeNotas\bin\Debug\MantenedorDeNotas.exe
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\MantenedorDeNotas\bin\Debug\MantenedorDeNotas.pdb
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\MantenedorDeNotas\obj\Debug\App.g.cs
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\MantenedorDeNotas\obj\Debug\MantenedorDeNotas_MarkupCompile.cache
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\MantenedorDeNotas\obj\Debug\MantenedorDeNotas_MarkupCompile.lref
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\MantenedorDeNotas\obj\Debug\MantenedorDeNotas.g.resources
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\MantenedorDeNotas\obj\Debug\MantenedorDeNotas.Properties.Resources.resources
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\MantenedorDeNotas\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\MantenedorDeNotas\obj\Debug\MantenedorDeNotas.exe
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\MantenedorDeNotas\obj\Debug\MantenedorDeNotas.pdb
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\MantenedorDeNotas\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\MantenedorDeNotas\obj\Debug\MantenedorPersona.g.cs
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\MantenedorDeNotas\obj\Debug\MantenedorPersona.baml
+C:\Users\CETECOM\Desktop\MantenedorDeNotas\MantenedorDeNotas\bin\Debug\MantenedorDeNotas.exe.config
+C:\Users\CETECOM\Desktop\MantenedorDeNotas\MantenedorDeNotas\obj\Debug\MantenedorDeNotas.exe
+C:\Users\CETECOM\Desktop\MantenedorDeNotas\MantenedorDeNotas\obj\Debug\MantenedorDeNotas.pdb
+C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\bin\Debug\MantenedorDeNotas.exe.config
+C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\obj\Debug\MantenedorDeNotas.exe
+C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\obj\Debug\MantenedorDeNotas.pdb

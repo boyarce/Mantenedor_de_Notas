@@ -1,0 +1,9 @@
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\Test\bin\Debug\Test.dll
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\Test\bin\Debug\Test.pdb
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\Test\bin\Debug\MantenedorDeNotas.exe
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\Test\bin\Debug\MantenedorDeNotas.pdb
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\Test\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\Test\obj\Debug\Test.dll
+c:\users\cetecom\documents\visual studio 2015\Projects\MantenedorDeNotas\Test\obj\Debug\Test.pdb
