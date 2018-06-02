@@ -18,3 +18,14 @@ C:\Users\CETECOM\Desktop\MantenedorDeNotas\MantenedorDeNotas\obj\Debug\Mantenedo
 C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\bin\Debug\MantenedorDeNotas.exe.config
 C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\obj\Debug\MantenedorDeNotas.exe
 C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\obj\Debug\MantenedorDeNotas.pdb
+C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\bin\Debug\MantenedorDeNotas.exe
+C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\bin\Debug\MantenedorDeNotas.pdb
+C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\obj\Debug\MantenedorPersona.g.cs
+C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\obj\Debug\App.g.cs
+C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\obj\Debug\MantenedorDeNotas_MarkupCompile.cache
+C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\obj\Debug\MantenedorDeNotas_MarkupCompile.lref
+C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\obj\Debug\MantenedorPersona.baml
+C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\obj\Debug\MantenedorDeNotas.g.resources
+C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\obj\Debug\MantenedorDeNotas.Properties.Resources.resources
+C:\Users\CETECOM\Source\Repos\Mantenedor_de_Notas2\MantenedorDeNotas\obj\Debug\Presentacion.csproj.GenerateResource.Cache

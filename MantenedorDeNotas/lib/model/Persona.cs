@@ -104,6 +104,19 @@ namespace MantenedorDeNotas.lib.model
             }
         }
 
+        public string Run
+        {
+            get
+            {
+                return run;
+            }
+
+            set
+            {
+                run = value;
+            }
+        }
+
         public override string ToString()
         {
             return "id: " + id + " run: " + run +
